@@ -5,8 +5,8 @@ Olá! Eu sou o Maurício
 - 😄 Pronouns: ele/ dele
 <div>
   <a href="https://github.com/Cmaunt">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cmaunt&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmaunt&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cmaunt&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmaunt&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cmaunt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
